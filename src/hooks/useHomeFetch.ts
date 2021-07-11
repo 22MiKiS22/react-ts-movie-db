@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 // API
 import API, { Movie } from '../API';
 //Helpers
